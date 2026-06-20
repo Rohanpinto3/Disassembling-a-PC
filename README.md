@@ -22,7 +22,7 @@ STEP 1 (REMOVING SCREWS OF THE CASE): <br/>
 <br />
 
 <p align="center"> 
-<img src="https://i.imgur.com/6zkkZRi.png" height="30%" width="30%"/> </p>
+<img src="[https://i.imgur.com/6zkkZRi.png](https://files.catbox.moe/w9pqow.png)" height="30%" width="30%"/> </p>
 
 
 <p align="center">We began the task by removing the case's first screws, which were all located in the back. The person removing the screws held a hand over the computer to keep it from moving and make it easier to remove the screws.</p>

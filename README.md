@@ -8,7 +8,16 @@
 <br />
 
 <h2>Step-by-Step Walk-Through:</h2>
+<p align="center"> 
+STEP 1 Ground Yourself Using an Anti-Static Wrist Strap :
 
+<br/>
+<img src="https://files.catbox.moe/rpnz3m.png" height="30%" width="30%"/> </p>
+by Using an Anti-Static Wrist Strap you Prevent electrostatic discharge (ESD) from damaging sensitive computer components during the disassembly process.</p>
+
+
+<br />
+<hr width="100%" size="2">
 
 <p align="center"> 
 STEP 1 (REMOVING SCREWS OF THE CASE): <br/>

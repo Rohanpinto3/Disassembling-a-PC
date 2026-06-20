@@ -9,7 +9,7 @@
 
 <h2>Step-by-Step Walk-Through:</h2>
 <p align="center"> 
-STEP 1 Ground Yourself Using an Anti-Static Wrist Strap :
+ Ground Yourself Using an Anti-Static Wrist Strap :
 
 <br/>
 <img src="https://files.catbox.moe/rpnz3m.png" height="30%" width="30%"/> </p>

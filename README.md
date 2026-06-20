@@ -224,6 +224,6 @@ STEP 12 (COMPUTER AFTER REMOVING ALL THE COMPONENTS): <br/>
 
 
 
-<a href="https://www.example.com">
+<a href="[https://www.example.com](https://github.com/Rohanpinto3/Assembling-a-PC)">
   <button>NEXT</button>
 </a>

@@ -224,6 +224,8 @@ STEP 12 (COMPUTER AFTER REMOVING ALL THE COMPONENTS): <br/>
 
 
 
-<a href="[https://www.example.com](https://github.com/Rohanpinto3/Assembling-a-PC)">
-  <button>NEXT</button>
-</a>
+
+
+## Navigation
+
+[![Next](https://img.shields.io/badge/➡️_Next_Project-Assembling_a_PC-success?style=for-the-badge)](https://github.com/Rohanpinto3/Assembling-a-PC)
